@@ -1027,6 +1027,9 @@ button {
   color: #eee;
   font-size: 36px;
 }
+.page-36 {
+  background-color: rgb(14, 146, 179);
+}
 .page-37 {
   background-color: #fff;
 }
@@ -1398,7 +1401,7 @@ button {
   display: none;
 }
 
-#text-75 {
+#text-175 {
   font-size: 40px;
   line-height: 40px;
   z-index: 9999;
