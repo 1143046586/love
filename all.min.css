@@ -774,6 +774,9 @@ button {
 .page-3 {
   background-color: #c1b287;
 }
+.page-4 {
+  background: lightblue;
+}
 .page-6 {
   background-color: #ecfafb;
   padding: 0;
@@ -837,6 +840,9 @@ button {
 .page-10 {
   background: url(img/iali22_bg.jpg);
 }
+.page-11 {
+  background: lightskyblue;
+}
 .page-12 {
   background-color: #aff1ff;
   padding: 0;
@@ -876,13 +882,16 @@ button {
   margin-top: 60%;
 }
 .page-16 {
-  background-color: #7db6df;
+  background-color: #bddef5;
 }
 .page-16 img {
   margin-top: 10%;
 }
 .page-17 {
   background-color: #e5f0f2;
+}
+.page-18 {
+  background: rgb(195, 230, 252);
 }
 .page-19 {
   background-image: url(img/iali75_bg.jpg);
@@ -1387,4 +1396,16 @@ button {
 #off {
   background: url(img/mute.png) left center no-repeat;
   display: none;
+}
+
+#text-75 {
+  font-size: 40px;
+  line-height: 40px;
+  z-index: 9999;
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  font-weight: 900;
+  top: 40%;
+  left: 14%;
 }
